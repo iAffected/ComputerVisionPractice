@@ -17,6 +17,7 @@ class LeNet5(nn.Module):
             nn.Tanh(),
             nn.Flatten(start_dim=1),
             nn.Linear(120, 84),
+            nn.Tanh(),
             nn.Linear(84, 10),
         )
 
