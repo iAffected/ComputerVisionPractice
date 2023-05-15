@@ -1,6 +1,8 @@
 .ipynb_checkpoints
 Practice2/MNIST/*
 Practice3/data/*
+Practice3-Improve/data/*
 
 !Practice2/MNIST/Readme.md
 !Practice3/data/Readme.md
+!Practice3-Improve/data/Readme.md
